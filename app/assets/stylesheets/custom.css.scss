@@ -39,6 +39,26 @@ $navbar-default-bg: #08088A;
                6px 6px 10px black;
 }
 
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+}
+
+.description {
+    margin-top: 0;
+}
+
+.article-title {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.article-body {
+    border-top: 1px solid #eaeaea;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 footer {
     margin-top: 45px;
     paddin-top: 5px;
@@ -64,10 +84,4 @@ footer ul li {
     margin-left: 15px;
 }
 
-.article-actions {
-border-top: 1px solid #eaeaea;
-padding-top: 5px;
-}
-.description {
-margin-top: 0;
-}
+
